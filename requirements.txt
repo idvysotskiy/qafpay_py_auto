@@ -1,0 +1,8 @@
+pytest~=7.4.4
+Appium-Python-Client~=3.1.1
+selenium~=4.17.2
+uiautomator2~=2.16.25
+allure-pytest==2.13.2
+urllib3==2.2.0
+
+Faker~=23.2.1
